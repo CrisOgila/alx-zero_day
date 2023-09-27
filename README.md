@@ -1,1 +1,1 @@
-E diting my first readme
+Editing my first readme
